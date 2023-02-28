@@ -35,7 +35,7 @@ export default function Apilists() {
     <section className="apilist-section">
         <div className="wrapper">
             <div className="section-title">
-                <h2>API lists</h2>
+                <h2>API lists page</h2>
                 <div className="api-container">
                 {users.map((item, index)=> {
                     return(
